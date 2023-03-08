@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 100px;
+}
+.by{
+  background-color: brown;
+  left: 50px;
+  border-radius: 20px;
+}
